@@ -1,3 +1,4 @@
+# **Part 1**
 ![image](https://github.com/dsoto0125/cse15l-lab-reports/assets/156368824/8e7dfb80-ab36-4716-8fc6-7e92654ee8ae)
 
 ![image](https://github.com/dsoto0125/cse15l-lab-reports/assets/156368824/a2e054cf-0601-4a11-8122-68ae6f1d5880)
@@ -8,8 +9,10 @@ This first screenshot displays the ChatServer file getting the URL with the help
 
 The second screenshot is showing just about the same commands as the first, however the history array was updated the last time `/add-message` was done. The history array now contains the previous message sent and will print the same message and the new message and it will continually do this until the history array is filled to it's maximum occupancy of 100. The way that it iterates through the array is using the value of index which is set to 0 originally but goess up everytime something is appended to the array.Then once again iterating through the history to append it to historybuilder array and returns the entire historybuilder in a string form.
 
+# **Part 2**
 ![image](https://github.com/dsoto0125/cse15l-lab-reports/assets/156368824/34ec50f6-4779-4892-9309-05c6d1b3410d)
 ![image](https://github.com/dsoto0125/cse15l-lab-reports/assets/156368824/040ba2bf-3b5a-4fd4-a495-77dc577df052)
 
-
+# **Part 3**
+I learned about URLs and Ports in week 2. I think it's interesting in how you can code a URL/server to handle requests such as incrementing and creating messages with history. I had no idea that you could do such requests using java and you can do it from anywhere that can run a java file.For week 3, I did have an idea about private and public keys but I wasn't aware that the files had to be specific in terms of access, from my understanding you could just try and access a file with or without a password depending on whether or not it was public or private. Now I understand that you generate keys and assign them to files through directories and filepaths within a terminal. 
 

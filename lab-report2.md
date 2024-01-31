@@ -7,3 +7,9 @@ This first screenshot displays the ChatServer file getting the URL with the help
 ![image](https://github.com/dsoto0125/cse15l-lab-reports/assets/156368824/47872620-ae3a-400a-8e40-928941f7a921)
 
 The second screenshot is showing just about the same commands as the first, however the history array was updated the last time `/add-message` was done. The history array now contains the previous message sent and will print the same message and the new message and it will continually do this until the history array is filled to it's maximum occupancy of 100. The way that it iterates through the array is using the value of index which is set to 0 originally but goess up everytime something is appended to the array.Then once again iterating through the history to append it to historybuilder array and returns the entire historybuilder in a string form.
+
+![image](https://github.com/dsoto0125/cse15l-lab-reports/assets/156368824/34ec50f6-4779-4892-9309-05c6d1b3410d)
+![image](https://github.com/dsoto0125/cse15l-lab-reports/assets/156368824/040ba2bf-3b5a-4fd4-a495-77dc577df052)
+
+
+

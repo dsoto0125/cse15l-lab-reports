@@ -29,7 +29,7 @@ Step 8 has us following the same steps as step 6, typing `bash t` and then use `
 ![Screenshot 2024-02-27 231839](https://github.com/dsoto0125/cse15l-lab-reports/assets/156368824/d8f62df3-5570-4f22-870a-dec30fff723e)
 ![Screenshot 2024-02-27 231913](https://github.com/dsoto0125/cse15l-lab-reports/assets/156368824/607912bf-f413-4e0d-b70e-896d4df3c299)
 
-Finally in step 9, we begin to commit our saved file. We begin by typing in `git commit -m "commit message"` we are able to commit our saved changes to the file. Normally we would get a vim window but for our purposes -m will allow us to simply put `"commit message"` and because I am lazy(lol). Now using `git push` we are able to push the commited changes to origin (aka the fork of our repository on github) and we finish our changes through vim. 
+Finally in step 9, we begin to commit our saved file. We begin by typing in `git commit -m "commit message"` we are able to commit our saved changes to the file. Normally we would get a vim window but for our purposes -m will allow us to simply put `"commit message"` and because I am lazy(lol). Now using `git push` we are able to push the commited changes to origin (aka the fork of our repository on github) and we finish our changes through vim. I was able to do `git commit -m "commit message"` with `git add`(it got lost because I was figuring out how to git commit) and added the changes to then commit them on the original. 
 
 
 
